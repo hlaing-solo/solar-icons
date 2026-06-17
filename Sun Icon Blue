@@ -1,0 +1,15 @@
+<svg width="80" height="80" viewBox="0 0 80 80" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>Blue sun loading icon</title>
+<desc>A minimal pulsing sun icon with an inner circle and an outer ring of eight triangular points that slowly rotates clockwise.</desc>
+<g transform="translate(40,40)">
+<g>
+<animateTransform attributeName="transform" attributeType="XML" type="scale" additive="sum" values="1;1.08;1" dur="2s" repeatCount="indefinite"/>
+<g>
+<animateTransform attributeName="transform" type="rotate" values="0;360" dur="12s" repeatCount="indefinite"/>
+<path d="M 0,-38 L 9,-22 L 26.9,-26.9 L 22,-9 L 38,0 L 22,9 L 26.9,26.9 L 9,22 L 0,38 L -9,22 L -26.9,26.9 L -22,9 L -38,0 L -22,-9 L -26.9,-26.9 L -9,-22 Z"
+fill="none" stroke="#6091c4" stroke-width="2" stroke-linejoin="round"/>
+</g>
+<circle cx="0" cy="0" r="14" fill="none" stroke="#6091c4" stroke-width="2"/>
+</g>
+</g>
+</svg>
